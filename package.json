@@ -1,0 +1,12 @@
+{
+  "name": "hookapi",
+  "description": "Hookapi allows one to hook *ANY* api in *ANY* module globally, including monitor and track http or fs",
+  "version": "0.1.0",
+  "homepage": "http://www.transppt.com",
+  "author": {
+    "name": "softguy",
+    "email": "softguyus@yahoo.com"
+  },
+  "main": "./hookapi.js",  
+  "readmeFilename": "README.MD"
+}
